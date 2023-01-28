@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileBillCalculator", "MobileBillCalculator\MobileBillCalculator.csproj", "{D5FE400E-39E3-42B9-94FD-A7C78FE13521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FE400E-39E3-42B9-94FD-A7C78FE13521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FE400E-39E3-42B9-94FD-A7C78FE13521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FE400E-39E3-42B9-94FD-A7C78FE13521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FE400E-39E3-42B9-94FD-A7C78FE13521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26DB5A1F-F7A7-462D-B703-D11239EB87EC}
+	EndGlobalSection
+EndGlobal
